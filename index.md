@@ -1,34 +1,58 @@
 # Privacy Policy for No Hope: Lost in Darkness
 
-**Last Updated: January 19, 2026**
+**Last Updated: March 10, 2026**
 
-This Privacy Policy describes how "No Hope: Lost in Darkness" (the "Game") handles information. We are committed to protecting your privacy.
-
-## 1. Information Collection and Use
-"No Hope: Lost in Darkness" is designed as an offline game. 
-- **Personal Data**: We do NOT collect any personally identifiable information (such as your name, email address, phone number, or precise location).
-- **Local Data Storage**: The Game saves your Progress (High Scores, Distance Traveled, Gacha results) locally on your device. This data is encrypted and stays on your device.
-
-## 2. Third-Party Services
-The Game is distributed via the Google Play Store. Google may collect certain information as part of its platform services (e.g., crash reports, system version). For more details, please refer to:
-- [Google Play Services Privacy Policy](https://policies.google.com/privacy)
-
-## 3. Children's Privacy
-Our Game does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
-
-## 4. Security
-We value your trust. Although no method of transmission or electronic storage is 100% secure, we use encryption techniques to protect your local save files from unauthorized access.
-
-## 5. Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: **[YOUR_EMAIL_HERE]** (Please replace this with your contact email).
+This Privacy Policy describes how **"No Hope: Lost in Darkness"** (the "Game") handles information. We are committed to ensuring that your privacy is protected and providing transparency regarding our data practices.
 
 ---
-## Chính sách Bảo mật (Tiếng Việt)
 
-**Cập nhật lần cuối: 19/01/2026**
+## 1. Information Collection and Use
 
-Chính sách này mô tả cách "No Hope: Lost in Darkness" xử lý thông tin người dùng.
+### 1.1 Non-Personal Gameplay Data
+The Game is primarily designed to function as an offline experience. To provide core gameplay features, the following data is stored locally on your device:
+- **Game Progress**: High scores, total distance traveled, and Gacha results.
+- **Save Encryption**: This data is encrypted using industry-standard techniques and remains exclusively on your device. We do not have access to your local save files.
 
-1. **Thu thập thông tin**: Chúng tôi KHÔNG thu thập thông tin cá nhân như tên, email hay số điện thoại.
-2. **Lưu trữ**: Dữ liệu chơi game (Điểm cao, kỷ lục) được lưu trực tiếp trên thiết bị của bạn và đã được mã hóa.
-3. **Bảo mật**: Chúng tôi sử dụng các kỹ thuật mã hóa để bảo vệ dữ liệu cục bộ của bạn.
+### 1.2 No Personal Data Collection
+We do **NOT** collect, store, or transmit any personally identifiable information (PII), such as:
+- Names, email addresses, or phone numbers.
+- Precise geographic location data.
+- Contact lists or sensitive device information.
+
+---
+
+## 2. Third-Party Services and Advertising
+
+While the core game is offline, we utilize third-party services for distribution, analytics, and monetization. These services may collect information used to identify you or your device.
+
+### 2.1 Google Play Services
+Distributed via the Google Play Store, the Game integrates Google Play Services which may collect data for leaderboard synchronization, achievements, and system diagnostic reports (App crashes, ANRs).
+- [Google Privacy Policy](https://policies.google.com/privacy)
+
+### 2.2 AdMob (Google)
+The Game uses Google AdMob to display advertisements (Banners, Interstitials, and Rewarded Ads). AdMob may use various technologies to collect information, including:
+- Advertising IDs (e.g., Android Advertising ID).
+- Device information and usage data to provide personalized or contextual advertising.
+- [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
+
+---
+
+## 3. Children's Privacy
+"No Hope: Lost in Darkness" is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13 years of age. If you are a parent or guardian and you are aware that your child has provided a third-party service with personal information, please contact the respective service provider.
+
+---
+
+## 4. Security
+The security of your data is important to us. We implement encryption for all local storage files to prevent unauthorized access or tampering. However, please remember that no method of electronic storage or transmission over the internet is 100% secure.
+
+---
+
+## 5. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We encourage users to check this page periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+---
+
+## 6. Contact Us
+If you have any questions or suggestions regarding this Privacy Policy, please contact us at:
+
+**Email**: evernamgreen@proton.me
