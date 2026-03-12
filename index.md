@@ -56,3 +56,31 @@ We may update our Privacy Policy from time to time. We encourage users to check 
 If you have any questions or suggestions regarding this Privacy Policy, please contact us at:
 
 **Email**: evernamgreen@proton.me
+
+
+# 🎵 Music & Asset Credits
+
+Below is the full list of background music (BGM) and sound effects used in the "No Hope" project.
+
+---
+
+## 🎹 Background Music (BGM)
+All tracks listed below are sourced from the YouTube Audio Library.
+
+- A Dusty Road – Dan Lebowitz
+- First Aid – Letter Box
+- Blast Off To Glory – Media Right Productions
+- A Valley Blast – Freedom Trail Studio
+- Barge – Gunnar Olsen
+... (và các bài khác) ...
+
+---
+
+## 🔊 Sound Effects (SFX)
+Sound effects provided by the Pixabay and Freesound.org communities.
+
+- Lion Roar, Dragon Roar, Tiger Roar – Provided by Pixabay.
+- Explosion, Flash, Impact vfx – Provided by Pixabay.
+- Sci-fi Charge, Rocket Loop, Energy Weapon – Provided by Freesound.org.
+- Menu Buttons – Provided by Pixabay.
+
