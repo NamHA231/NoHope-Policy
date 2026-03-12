@@ -58,29 +58,37 @@ If you have any questions or suggestions regarding this Privacy Policy, please c
 **Email**: evernamgreen@proton.me
 
 
-# 🎵 Music & Asset Credits
+## Music & Asset Credits
 
 Below is the full list of background music (BGM) and sound effects used in the "No Hope" project.
 
----
+### Background Music (BGM)
+All tracks listed below are sourced from the **YouTube Audio Library**.
 
-## 🎹 Background Music (BGM)
-All tracks listed below are sourced from the YouTube Audio Library.
+*   **A Dusty Road** – Dan Lebowitz
+*   **First Aid** – Letter Box
+*   **Blast Off To Glory** – Media Right Productions
+*   **A Valley Blast** – Freedom Trail Studio
+*   **Barge** – Gunnar Olsen
+*   **Busy Beat** – Silent Partner
+*   **Fights** – Silent Partner
+*   **First In Line** – Silent Partner
+*   **Hemispheres** – Silent Partner
+*   **More Better** – Jeremy Korpas
+*   **Organic Apples** – Ashley Shadow
+*   **Press Fuse** – French Fuse
+*   **Punk In Donuts** – Hanu Dixit
+*   **Ready-Set-Go!** – Magic In The Other
+*   **Serial Dream Rock** – Unicorn Heads
+*   **The End Is Near** – Gunnar Olsen
+*   **Tick Tock** – Jimmy Fontanez & Media Right Productions
 
-- A Dusty Road – Dan Lebowitz
-- First Aid – Letter Box
-- Blast Off To Glory – Media Right Productions
-- A Valley Blast – Freedom Trail Studio
-- Barge – Gunnar Olsen
-... (và các bài khác) ...
+### Sound Effects (SFX)
+Sound effects provided by the **Pixabay** and **Freesound.org** communities.
 
----
+*   **Lion Roar, Dragon Roar, Tiger Roar** – Provided by Pixabay.
+*   **Explosion, Flash, Impact vfx** – Provided by Pixabay.
+*   **Sci-fi Charge, Rocket Loop, Energy Weapon** – Provided by Freesound.org.
+*   **Menu Buttons** – Provided by Pixabay.
 
-## 🔊 Sound Effects (SFX)
-Sound effects provided by the Pixabay and Freesound.org communities.
-
-- Lion Roar, Dragon Roar, Tiger Roar – Provided by Pixabay.
-- Explosion, Flash, Impact vfx – Provided by Pixabay.
-- Sci-fi Charge, Rocket Loop, Energy Weapon – Provided by Freesound.org.
-- Menu Buttons – Provided by Pixabay.
 
