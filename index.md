@@ -91,4 +91,10 @@ Sound effects provided by the **Pixabay** and **Freesound.org** communities.
 *   **Sci-fi Charge, Rocket Loop, Energy Weapon** – Provided by Freesound.org.
 *   **Menu Buttons** – Provided by Pixabay.
 
+### Data Deletion Request
+For our game "No Hope: Lost in Darkness", we use Google Play Games Services to provide Leaderboard features. We do not host your personal account data on our private servers. However, if you wish to request the deletion of your game-related data (such as high scores or associated User IDs), please follow these steps:
+
+*  Method 1: Open the Google Play Games app on your device, go to Settings > Delete Play Games account & data, and select this game to remove your data.
+
+*  Method 2: Send an email to us at **evernamgreen@proton.me** with the subject **"Data Deletion Request - No Hope: Lost In Darkness"**. Please provide your Play Games Nickname. We will process your request and remove your scores from our Leaderboards within 7 business days.
 
